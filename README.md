@@ -1,5 +1,5 @@
-# 🚀 Hi, I'm Pradyumna (Bapun) 👋  
-**MCA Final Year Student | Full-Stack Web Developer | Build-First Learner**
+# 👋 Hi, I'm Pradyumna (Bapun)
+**MCA Final Year Student | Full-Stack Web Developer**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pkbehera-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="pkbehera-dev" />
@@ -9,82 +9,75 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full-Stack Web Developer** who believes in learning by **building real-world products**.  
-I focus on creating **clean, functional, and scalable web applications** rather than just collecting tutorials.
+I’m a **Full-Stack Web Developer** who believes in learning by **building real-world applications**.  
+I focus on writing **clean, secure, and maintainable code**, prioritizing fundamentals over hype.
 
-I am currently working on a long-term goal to complete **100 Web Development Projects**, starting with production-ready applications.
+I’m currently working toward a long-term goal of completing **100 Web Development Projects**, starting with production-ready applications.
 
-- 🎓 **Education:** Final Year MCA Student  
-- 🛠️ **Strength:** Turning ideas into working web products  
-- 🚀 **Current Focus:** Strong fundamentals + real projects  
-- 🧠 **Interests:** Secure Web Apps, AI Automation, UI/UX  
-- 🎮 **Mindset:** *Solo Leveling* — consistent improvement every day
+- 🎓 **Final Year MCA Student**
+- 🛠️ Strong at turning ideas into working web products
+- 🚀 Focused on scalability, clarity, and best practices
+- 🧠 Interested in secure web apps, automation, and UI/UX
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Portfolio Website
-A modern, responsive portfolio showcasing my projects, skills, and development journey.  
-Designed with performance, clarity, and clean UI in mind.
+### 🔹 Portfolio Website  
+A modern, responsive personal portfolio showcasing my projects, technical skills, and development journey.  
+Built with a focus on **performance, clarity, and clean UI/UX**.
 
 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-🔗 **Live:** [Live URL](https://pkbehera.in)  
-📂 **Repo:** [Repo Link](https://github.com/pkbehera-dev/portfolio)
+🔗 **Live:** [https://pkbehera.in](https://pkbehera.in)  
+📂 **Repository:** [github.com/pkbehera-dev/portfolio](https://github.com/pkbehera-dev/portfolio)
 
 ---
 
-### 🔹 URL Shortener with Analytics
-A full-stack URL shortening platform with authentication, click tracking, and dashboard analytics.
+### 🔹 URL Shortener with Analytics  
+A full-stack URL shortening platform featuring user authentication, click tracking, and an analytics dashboard.
 
-**Features:**
+**Key Features:**
 - Secure user authentication  
 - Short link generation  
-- Click analytics & tracking  
-- Clean admin dashboard  
+- Click tracking and analytics  
+- Clean, admin-friendly dashboard  
 
 **Tech Stack:** PHP, MySQL, Bootstrap  
-🔗 **Live:** [Live URL](https://go.pkbehera.in)  
-📂 **Repo:** [Repo Link](https://github.com/pkbehera-dev/url-shortner)
+🔗 **Live:** [https://go.pkbehera.in](https://go.pkbehera.in)  
+📂 **Repository:** [github.com/pkbehera-dev/url-shortner](https://github.com/pkbehera-dev/url-shortner)
 
 ---
 
 ## 🧠 Currently Learning
 
-- Advanced JavaScript (Async, APIs, Performance)
-- Secure PHP Backend Architecture
-- Database Optimization & Security
-- AI API Integration (Automation-focused)
-- UI/UX for developer-built products
+- ⚛️ **React.js** (components, hooks, modern frontend workflows)
+- ☕ **Java** (object-oriented programming & backend fundamentals)
+- 🐍 **Python** (automation, scripting, and core programming concepts)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend & UI
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Programming
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Backend & Tools
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pkbehera-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkbehera-dev&theme=tokyonight&hide_border=false&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pkbehera-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkbehera-dev&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pkbehera-dev&theme=tokyonight&hide_border=false" width="100%" />
-</p>
 
 ---
 
@@ -92,10 +85,10 @@ A full-stack URL shortening platform with authentication, click tracking, and da
 
 <p align="left">
 <a href="https://linkedin.com/in/pkbehera-dev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/pkbehera.in" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:contact@pkbehera.in">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -104,21 +97,15 @@ A full-stack URL shortening platform with authentication, click tracking, and da
 
 ---
 
-## 🧠 Developer Philosophy
+## 🧠 Developer Principles
 
 - Build first, optimize later  
-- Simplicity over overengineering  
+- Simplicity over complexity  
 - Consistency beats motivation  
 - Real projects create real skills  
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pkbehera-dev/pkbehera-dev/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-<p align="center">
-🚀 Keep building. Keep growing. Keep leveling up.
+🚀 Keep building. Keep improving.
 </p>

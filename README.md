@@ -74,11 +74,10 @@ A full-stack URL shortening platform featuring user authentication, click tracki
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pkbehera-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkbehera-dev&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pkbehera-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pkbehera-dev&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
-
 ---
 
 ## 🌐 Connect With Me

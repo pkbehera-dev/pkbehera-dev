@@ -1,110 +1,134 @@
 # 👋 Hi, I'm Pradyumna (Bapun)
+
 **MCA Final Year Student | Full-Stack Web Developer**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pkbehera-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="pkbehera-dev" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=pkbehera-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Full-Stack Web Developer** who believes in learning by **building real-world applications**.  
-I focus on writing **clean, secure, and maintainable code**, prioritizing fundamentals over hype.
+I’m a **Full-Stack Web Developer** who believes in learning by **building real-world applications**.
 
-I’m currently working toward a long-term goal of completing **100 Web Development Projects**, starting with production-ready applications.
+I focus on writing **clean, secure, and maintainable code**, prioritizing **strong fundamentals and practical problem solving**.
 
-- 🎓 **Final Year MCA Student**
-- 🛠️ Strong at turning ideas into working web products
-- 🚀 Focused on scalability, clarity, and best practices
-- 🧠 Interested in secure web apps, automation, and UI/UX
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Portfolio Website  
-A modern, responsive personal portfolio showcasing my projects, technical skills, and development journey.  
-Built with a focus on **performance, clarity, and clean UI/UX**.
-
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-🔗 **Live:** [https://pkbehera.in](https://pkbehera.in)  
-📂 **Repository:** [github.com/pkbehera-dev/portfolio](https://github.com/pkbehera-dev/portfolio)
+- 🎓 Final Year **MCA Student**
+- 🛠️ Skilled at turning ideas into working web applications
+- 🚀 Focused on scalable architecture and clean UI
+- 🧠 Interested in **secure web apps, automation, and developer tools**
 
 ---
 
-### 🔹 URL Shortener with Analytics  
-A full-stack URL shortening platform featuring user authentication, click tracking, and an analytics dashboard.
+# 🚀 Featured Projects
 
-**Key Features:**
-- Secure user authentication  
-- Short link generation  
-- Click tracking and analytics  
-- Clean, admin-friendly dashboard  
+## 🔹 Portfolio Website
 
-**Tech Stack:** PHP, MySQL, Bootstrap  
-🔗 **Live:** [https://go.pkbehera.in](https://go.pkbehera.in)  
-📂 **Repository:** [github.com/pkbehera-dev/url-shortner](https://github.com/pkbehera-dev/url-shortner)
+A modern responsive personal portfolio showcasing my projects, technical skills, and development journey.
 
----
+**Tech Stack**
 
-## 🧠 Currently Learning
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap  
 
-- ⚛️ **React.js** (components, hooks, modern frontend workflows)
-- ☕ **Java** (object-oriented programming & backend fundamentals)
-- 🐍 **Python** (automation, scripting, and core programming concepts)
+🔗 Live: https://pkbehera.in  
+📂 Repo: https://github.com/pkbehera-dev/portfolio
 
 ---
 
-## 🛠️ Tech Stack
+## 🔹 URL Shortener with Analytics
+
+A full-stack URL shortening platform with **authentication, link tracking, and analytics dashboard**.
+
+### Features
+
+- Secure user authentication
+- Short link generation
+- Click tracking
+- Analytics dashboard
+
+**Tech Stack**
+
+- PHP  
+- MySQL  
+- Bootstrap  
+
+🔗 Live: https://go.pkbehera.in  
+📂 Repo: https://github.com/pkbehera-dev/url-shortner
+
+---
+
+## 🔹 Smart Academic Management System *(MCA 4th Semester Project)*
+
+A web-based academic management platform designed to simplify management of **students, attendance, and academic records**.
+
+### Features
+
+- Student profile management
+- Attendance tracking
+- Academic performance tracking
+- Faculty & course management
+- Admin dashboard
+
+**Tech Stack**
+
+- PHP  
+- MySQL  
+- JavaScript  
+- Bootstrap  
+
+---
+
+# 🧠 Currently Learning
+
+- React.js  
+- Java (OOP & backend fundamentals)  
+- Python (automation & scripting)
+
+---
+
+# 🛠️ Tech Stack
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
 ### Backend & Tools
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+- PHP
+- MySQL
+- C
+- Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=pkbehera-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pkbehera-dev&layout=compact&theme=tokyonight" width="48%" />
-</p>
----
+![Pradyumna GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pkbehera-dev&show_icons=true&theme=tokyonight)
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/pkbehera-dev" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/pkbehera.in" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:contact@pkbehera.in">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pkbehera-dev&layout=compact&theme=tokyonight)
 
 ---
 
-## 🧠 Developer Principles
+# 🌐 Connect With Me
 
-- Build first, optimize later  
-- Simplicity over complexity  
-- Consistency beats motivation  
-- Real projects create real skills  
+- 💼 LinkedIn: https://linkedin.com/in/pkbehera-dev  
+- 📸 Instagram: https://instagram.com/pkbehera.in  
+- 📧 Email: contact@pkbehera.in
 
 ---
 
-<p align="center">
-🚀 Keep building. Keep improving.
-</p>
+# 🧠 Developer Principles
+
+- Build first, optimize later
+- Simplicity over complexity
+- Consistency beats motivation
+- Real projects create real skills
+
+---
+
+🚀 **Keep building. Keep improving.**

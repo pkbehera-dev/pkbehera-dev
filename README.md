@@ -1,134 +1,102 @@
-# 👋 Hi, I'm Pradyumna (Bapun)
+# 👋 Hi, I'm Pradyumna Behera
 
-**MCA Final Year Student | Full-Stack Web Developer**
+### MCA Student • Full-Stack Developer • Open-Source Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=pkbehera-dev&label=Profile%20Views&color=0e75b6&style=flat)
+I build secure, scalable, and user-focused applications across web and desktop platforms. My interests include software engineering, system design, backend development, and creating practical solutions that solve real-world problems.
 
----
+I enjoy working with modern web technologies, automation tools, and open-source projects while continuously improving my development skills and engineering practices.
 
-## 👨‍💻 About Me
-
-I’m a **Full-Stack Web Developer** who believes in learning by **building real-world applications**.
-
-I focus on writing **clean, secure, and maintainable code**, prioritizing **strong fundamentals and practical problem solving**.
-
-- 🎓 Final Year **MCA Student**
-- 🛠️ Skilled at turning ideas into working web applications
-- 🚀 Focused on scalable architecture and clean UI
-- 🧠 Interested in **secure web apps, automation, and developer tools**
+[![Profile Views](https://komarev.com/ghpvc/?username=pkbehera-dev&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/pkbehera-dev)
 
 ---
 
-# 🚀 Featured Projects
-
-## 🔹 Portfolio Website
-
-A modern responsive personal portfolio showcasing my projects, technical skills, and development journey.
-
-**Tech Stack**
-
-- HTML  
-- CSS  
-- JavaScript  
-- Bootstrap  
-
-🔗 Live: https://pkbehera.in  
-📂 Repo: https://github.com/pkbehera-dev/portfolio
-
----
-
-## 🔹 URL Shortener with Analytics
-
-A full-stack URL shortening platform with **authentication, link tracking, and analytics dashboard**.
-
-### Features
-
-- Secure user authentication
-- Short link generation
-- Click tracking
-- Analytics dashboard
-
-**Tech Stack**
-
-- PHP  
-- MySQL  
-- Bootstrap  
-
-🔗 Live: https://go.pkbehera.in  
-📂 Repo: https://github.com/pkbehera-dev/url-shortner
-
----
-
-## 🔹 Smart Academic Management System *(MCA 4th Semester Project)*
-
-A web-based academic management platform designed to simplify management of **students, attendance, and academic records**.
-
-### Features
-
-- Student profile management
-- Attendance tracking
-- Academic performance tracking
-- Faculty & course management
-- Admin dashboard
-
-**Tech Stack**
-
-- PHP  
-- MySQL  
-- JavaScript  
-- Bootstrap  
-
----
-
-# 🧠 Currently Learning
-
-- React.js  
-- Java (OOP & backend fundamentals)  
-- Python (automation & scripting)
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
+### Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 
-### Backend & Tools
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405E.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-- PHP
-- MySQL
-- C
-- Git & GitHub
-
----
-
-# 📊 GitHub Stats
-
-![Pradyumna GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pkbehera-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pkbehera-dev&layout=compact&theme=tokyonight)
-
----
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/pkbehera-dev  
-- 📸 Instagram: https://instagram.com/pkbehera.in  
-- 📧 Email: contact@pkbehera.in
+### Development Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=flat-square&logo=apache&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
-# 🧠 Developer Principles
+## 🚀 Featured Projects
 
-- Build first, optimize later
-- Simplicity over complexity
-- Consistency beats motivation
-- Real projects create real skills
+### 🔹 [Finance Pro](https://github.com/pkbehera-dev/Finance-Pro)
+**Personal Finance & Budget Management Desktop Application**
+
+A native desktop application designed to help users manage expenses, budgets, and financial insights efficiently.
+- **Highlights:** AI-powered financial analysis, recurring transaction management, automatic updates, device-based licensing, and offline-first architecture.
+- **Tech Stack:** Python, Flask, PyWebview, SQLite, Gemini API
+- **Links:** [Repository](https://github.com/pkbehera-dev/Finance-Pro) | [Latest Setup](https://github.com/pkbehera-dev/Money/releases)
 
 ---
 
-🚀 **Keep building. Keep improving.**
+### 🔹 [ToolBox](https://github.com/pkbehera-dev/ToolBox)
+**Developer Utilities & Productivity Platform**
+
+A secure collection of browser-based developer tools focused on security, performance, and usability.
+- **Highlights:** Custom lightweight PHP MVC architecture, native TOTP-based 2FA implementation, rate limiting, Safe Browsing integration, and custom CSS styling.
+- **Tech Stack:** PHP, MySQL, JavaScript, CSS
+- **Links:** [Live Demo](https://hub.pkbehera.in/) | [Repository](https://github.com/pkbehera-dev/ToolBox)
+
+---
+
+### 🔹 [SAMS](https://github.com/pkbehera-dev/sams)
+**Smart Academic Management System**
+
+A multi-tenant academic management platform designed for educational institutions.
+- **Highlights:** Role-based access control, student attendance tracking, GPA and grading automation, fee management, and administrative reporting dashboards.
+- **Tech Stack:** PHP, MySQL, Bootstrap 5, Chart.js
+- **Links:** [Repository](https://github.com/pkbehera-dev/sams)
+
+---
+
+## 📚 Currently Learning
+* Advanced React Architecture
+* Java Backend Development
+* REST API Design
+* Software Design Patterns
+* Python Automation & Scripting
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pkbehera-dev&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pkbehera-dev&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🌐 [Portfolio Website](https://pkbehera.in)
+- 💼 [LinkedIn Profile](https://linkedin.com/in/pkbehera-dev)
+- 📂 [GitHub Profile](https://github.com/pkbehera-dev)
+- 📧 [Email Address](mailto:contact@pkbehera.in)
+
+---
+
+### 💡 Philosophy
+
+> Build simple. Secure by default. Optimize when necessary. Never stop learning.

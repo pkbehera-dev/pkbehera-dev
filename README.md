@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pradyumna Behera
+# 👋 Hi, I'm Pradyumna Behera (Bapun)
 
 ### MCA Student • Full-Stack Developer • Open-Source Enthusiast
 
@@ -40,13 +40,13 @@ I enjoy working with modern web technologies, automation tools, and open-source 
 
 ## 🚀 Featured Projects
 
-### 🔹 [Finance Pro](https://github.com/pkbehera-dev/Finance-Pro)
+### 🔹 [Finance Pro (Go Edition)](https://github.com/pkbehera-dev/financepro) [ONGOING]
 **Personal Finance & Budget Management Desktop Application**
 
-A native desktop application designed to help users manage expenses, budgets, and financial insights efficiently.
-- **Highlights:** AI-powered financial analysis, recurring transaction management, automatic updates, device-based licensing, and offline-first architecture.
-- **Tech Stack:** Python, Flask, PyWebview, SQLite, Gemini API
-- **Links:** [Repository](https://github.com/pkbehera-dev/Finance-Pro) | [Latest Setup](https://github.com/pkbehera-dev/Money/releases)
+A native, compiled desktop application designed to manage personal finance, cards, loans, budgets, and categories with total offline privacy.
+- **Highlights:** Compiled Go binary with near-instant startup, 100% offline SQLite WAL mode database (1-2ms aggregates), dynamic theme switching, local JSON exports, and modular tabs interface.
+- **Tech Stack:** Go (Golang), Wails v2, React 19, TypeScript, Tailwind CSS, SQLite
+- **Links:** [Repository](https://github.com/pkbehera-dev/financepro)
 
 ---
 
